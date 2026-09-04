@@ -17,4 +17,30 @@ STORAGE: Saving data temporarily in RAM or permanently on a hard device.
 OUTPUT: Presenting the final result on a monitor, printer, or speaker.
 
 
+TYPES OF COMPUTERS AND MARKDOWN TABLES
+
+##Types of Computers
+
+Computers are classified into different types based on their size, power, and how they handle data.
+
+*Supercomputers:*
+The largest and fastest computers. They process massive ammounts of data for complex tasks like weather forecasting and scientific research.
+
+*Mainframe Computer:*
+Large, powerful systems used by big organizations. They handle high-volume data processing, secure banking transactions, and enterprise operations.
+
+*Minicomputers:*
+Medium sized computers that sit between mainframes and microcomputers. They support medium-scale business operations and industrial automation.
+
+*Microcomputers:*
+Small, affordable computers designed for single users. This category includes desktops, laptops, tablets, and microphones.
+
+
+
+|     Category     |       Examples       |                     Use Case                     |
+|     Petaflop     |        Summit        |                 Weather forecasting              |
+|  Workstation     |     High-end PC      |        Graphic Design \ Engineering              |
+| Midrange servers |      IBM AS\400      | Mid-size business managment, Industrial processes|
+|       Mobile     | Smartphones, Tablets |             Daily tasks on the go                |
+
 
